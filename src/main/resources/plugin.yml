@@ -1,0 +1,5 @@
+name: HikariDatabaseTest
+author: Novur
+version: FINAL
+api-version: 1.15
+main: com.novur.hdt.DataTest
